@@ -1,0 +1,4 @@
+build*
+install/cmake*
+install/lib*
+install/include*
