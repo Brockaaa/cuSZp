@@ -1,3 +1,11 @@
+## Working with this fork
+
+All the changes are made in ```examples/cuSZp_gpu_f32_api.cpp```
+
+To get it running follow the installation below!
+
+The benchmark scripts are located in ```install/bin/```
+
 # cuSZp
 <a href="./LICENSE"><img src="https://img.shields.io/badge/License-BSD%203--Clause-blue.svg"></a> 
 
